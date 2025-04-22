@@ -4,33 +4,33 @@
 
 ---
 
-## Key Features ⚡
+### Key Features ⚡
 
-### 1. Token Transfers 💸
+#### 1. Token Transfers 💸
 - **Send and receive SEI tokens** and **ERC-20 tokens** within Telegram, without the need for additional apps or wallets.
 
-### 2. Smart Contract Deployment 🛠️
+#### 2. Smart Contract Deployment 🛠️
 - Deploy **ERC-20 tokens**, **ERC-721 NFTs**, and **DAO contracts** with simple commands directly from Telegram.
 
-### 3. Market Data 📊
+#### 3. Market Data 📊
 - Get real-time **cryptocurrency prices**, **trending tokens**, **market insights**, and **top gainers/losers** using the **CoinGecko API**.
 
-### 4. Cross-Chain Token Swaps 🔄
+#### 4. Cross-Chain Token Swaps 🔄
 - Swap tokens seamlessly across multiple blockchains using **LI.FI**, which aggregates liquidity from various decentralized exchanges (DEXs).
 
-### 5. Portfolio Management 💼
+#### 5. Portfolio Management 💼
 - **Check wallet balances** for **SEI** and **ERC-20 tokens** on both **mainnet** and **testnet**, all within Telegram.
 
-### 6. Sei.fun Platform Integration 💥
+#### 6. Sei.fun Platform Integration 💥
 - **Buy, sell, and create tokens** on the **Sei.fun** platform (similar to **Pump.fun**) directly from Telegram.
 
-### 7. Real-Time Notifications 🔔
+#### 7. Real-Time Notifications 🔔
 - **Set price alerts** and get real-time market notifications for your favorite tokens to stay updated on trading opportunities.
 
-### 8. DeFi Interactions 🔥
+#### 8. DeFi Interactions 🔥
 - Engage in **DeFi** token swaps, liquidity management, and asset trading—all within Telegram.
 
-### 9. Governance and DAO Participation 🗳️
+#### 9. Governance and DAO Participation 🗳️
 - Participate in **DAO governance** and vote on proposals with ease, all via Telegram.
 
 ---
