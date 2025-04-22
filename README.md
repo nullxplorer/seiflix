@@ -35,7 +35,7 @@
 
 ---
 
-## Target Audience 🎯
+### Target Audience 🎯
 
 SeiFlix serves a broad range of users:
 - **Blockchain beginners** looking for a simple way to interact with crypto.
@@ -47,7 +47,7 @@ SeiFlix serves a broad range of users:
 
 ---
 
-## SeiFlix's Advantages 🏅
+### SeiFlix's Advantages 🏅
 
 - **User-Friendly**: Operates directly within Telegram, making blockchain interactions as easy as sending a message.
 - **Cross-Platform Integration**: Supports both **Sei Blockchain** and **Ethereum-based** assets (ERC-20 tokens) in one unified platform.
@@ -57,35 +57,35 @@ SeiFlix serves a broad range of users:
 
 ---
 
-## Use Cases 🌍
+### Use Cases 🌍
 
-### 1. Token Transfers 💸
+#### 1. Token Transfers 💸
 - **Send SEI** and **ERC-20 tokens** between wallets quickly and securely within Telegram.
 
-### 2. Smart Contract Deployment 🛠️
+#### 2. Smart Contract Deployment 🛠️
 - Deploy **ERC-20 tokens**, **NFTs**, and **DAO contracts** effortlessly with simple commands in Telegram.
 
-### 3. Market Data & Price Alerts 📈
+#### 3. Market Data & Price Alerts 📈
 - Track real-time prices, top gainers/losers, and trending tokens. Set price alerts to stay on top of market movements.
 
-### 4. Token Swaps 🔄
+#### 4. Token Swaps 🔄
 - Swap tokens across different blockchains using **LI.FI**, ensuring the best rates and liquidity.
 
-### 5. Wallet Management 💼
+#### 5. Wallet Management 💼
 - **Check wallet balances** for SEI and ERC-20 tokens on both mainnet and testnet.
 
 ### 6. Sei.fun Integration 🎉
 - Create, buy, and sell tokens on **Sei.fun**, a community-driven platform, all from Telegram.
 
-### 7. DeFi & Liquidity Management 🔥
+#### 7. DeFi & Liquidity Management 🔥
 - Participate in **DeFi** token swaps, liquidity management, and trading—all within Telegram.
 
-### 8. Governance Participation 🗳️
+#### 8. Governance Participation 🗳️
 - Vote on **DAO proposals** and engage with decentralized governance directly through Telegram.
 
 ---
 
-## Why Telegram? 🤔
+### Why Telegram? 🤔
 
 Telegram is the perfect platform for SeiFlix because:
 - **Massive crypto community**: Telegram already hosts millions of blockchain enthusiasts and developers, making it the ideal place for SeiFlix.
@@ -94,9 +94,9 @@ Telegram is the perfect platform for SeiFlix because:
 
 ---
 
-## 🚀 Quick Start
+### 🚀 Quick Start
 
-### Prerequisites
+#### Prerequisites
 
 - [Python 2.7+](https://www.python.org/downloads/)
 - [Node.js 23+](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
@@ -104,7 +104,7 @@ Telegram is the perfect platform for SeiFlix because:
 
 > **Note for Windows Users:** [WSL 2](https://learn.microsoft.com/en-us/windows/wsl/install-manual) is required.
 
-### Installation 🚀
+#### Installation 🚀
 
 ```bash
 git clone https://github.com/nullxplorer/seiflix.git
@@ -113,7 +113,7 @@ cp .env.example .env
 pnpm i && pnpm build
 pnpm start --isRoot --characters="characters/seiflix.character.json"
 ```
-#### Edit the .env file
+##### Edit the .env file
 - Befor running pnpm start, please fill the api keys for the AI Model(which you are using), Coingrcko Pro API Key and the Telegram Bot Token.
 - Also add your SEI wallet private key in the.env file.
 ```
@@ -123,23 +123,23 @@ pnpm start --isRoot --characters="characters/seiflix.character.json"
 - `SEI_PRIVATE_KEY`: Your Sei Wallet Private Key.
 ```
 
-## Credits
+### Credits
 
 - This project has been forked from ElizaOS and built on top of the ElizaOS V1 structure.
 - We will be continuing to keep our contributions as open-sourse as well and will continue to update with new features and improvements.
 
-## Contributing 🤝
+### Contributing 🤝
 
 Feel free to contribute to this project! We welcome suggestions, bug fixes, and improvements.
 
-### To contribute:
+#### To contribute:
 1. Fork the repo.
 2. Create a new branch for your changes.
 3. Submit a pull request with a detailed explanation of the changes.
 
 ---
 
-## License 📝
+### License 📝
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
